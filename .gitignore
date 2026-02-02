@@ -1,0 +1,6 @@
+*.o
+*.ko
+*.obj
+.config
+Module.symvers
+modules.order
